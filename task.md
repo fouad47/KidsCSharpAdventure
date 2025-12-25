@@ -1,0 +1,33 @@
+# Kids C# Adventure Project Task List
+
+- [x] Project Setup
+    - [x] Initialize .NET Console Application
+    - [x] Create folder structure for chapters
+- [x] Core Programming Basics
+    - [x] Chapter 1: What is Programming
+    - [x] Chapter 2: Variables and Data Types
+    - [x] Chapter 3: Conditions and Loops
+    - [x] Chapter 4: User Input
+- [x] Object-Oriented Programming (OOP)
+    - [x] Chapter 5: Class and Object
+    - [x] Chapter 6: Encapsulation
+    - [x] Chapter 7: Inheritance
+    - [x] Chapter 8: Polymorphism
+    - [x] Chapter 9: Abstraction
+    - [x] Chapter 10: Interfaces
+- [x] Advanced C# Concepts
+    - [x] Chapter 11: Static and Readonly
+    - [x] Chapter 12: Exception Handling
+    - [x] Chapter 13: Collections
+    - [x] Chapter 14: File Handling
+    - [x] Chapter 15: Enums
+    - [x] Chapter 16: Generics
+    - [x] Chapter 17: Multithreading
+    - [x] Chapter 18: Lambda Expressions
+- [x] Test Automation & Final Project
+    - [x] Chapter 19: Test Automation Basics for Kids
+    - [x] Chapter 20: Mini Project
+- [x] DevOps & Documentation
+    - [x] Add GitHub Actions CI (dotnet.yml)
+    - [x] Create README.md
+    - [x] Final verification and walkthrough
