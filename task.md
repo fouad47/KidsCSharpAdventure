@@ -28,6 +28,6 @@
     - [x] Chapter 19: Test Automation Basics for Kids
     - [x] Chapter 20: Mini Project
 - [x] DevOps & Documentation
-    - [x] Add GitHub Actions CI (dotnet.yml)
+    - [x] Add GitHub Actions CI (dotnet.yml) [FIXED PATH]
     - [x] Create README.md
     - [x] Final verification and walkthrough

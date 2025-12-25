@@ -30,7 +30,7 @@ Each chapter uses simple English and fun comparisons:
 I have verified the code structure and logic:
 1.  **Compilation**: The project is structured as a standard .NET 8.0 Console application.
 2.  **Story Flow**: Each chapter includes an explanation, code examples, and clear console output.
-3.  **GitHub Actions**: A CI workflow is included to ensure the project builds on every update.
+3.  **GitHub Actions**: A CI workflow is included. I fixed the project path in `dotnet.yml` to ensure it builds correctly in the cloud.
 
 ## 🤖 Test Automation
 In the final chapters, we introduce the idea of "Expected vs Actual" results, helping children understand how to write checks that run automatically.
